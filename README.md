@@ -33,14 +33,12 @@ Screenshots:
 homepage for Screenshot 1.
 Screenshot from 2024-02-21 12-38-23.png
 
-<img src="mealsapp2
-/Screenshot from 2024-02-21 12-38-23.png" alt="Italian Trulli">
+<img src="mealsapp2/Screenshot from 2024-02-21 12-38-23.png" alt="Italian Trulli">
 
 
 
 After adding Favourites for Screenshot 2.
-<img src="mealsapp2
-/Screenshot from 2024-02-21 12-39-04.png" alt="Italian Trulli">
+<img src="mealsapp2/Screenshot from 2024-02-21 12-39-04.png" alt="Italian Trulli">
 
 Technologies Used:
 HTML5
