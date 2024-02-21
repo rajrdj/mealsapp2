@@ -33,12 +33,16 @@ Screenshots:
 homepage for Screenshot 1.
 Screenshot from 2024-02-21 12-38-23.png
 
+<<<<<<< HEAD
+<img src="https://github.com/rajrdj/mealsapp2/blob/d28018eee5cd3d61fc236cd2460609cb830d5e2b/Screenshot1.png" >
+=======
 <img src="mealsapp2/Screenshot from 2024-02-21 12-38-23.png" alt="Italian Trulli">
+>>>>>>> d28018eee5cd3d61fc236cd2460609cb830d5e2b
 
 
 
 After adding Favourites for Screenshot 2.
-<img src="mealsapp2/Screenshot from 2024-02-21 12-39-04.png" alt="Italian Trulli">
+<img src="https://github.com/rajrdj/mealsapp2/blob/d28018eee5cd3d61fc236cd2460609cb830d5e2b/Screenshot2.png" >
 
 Technologies Used:
 HTML5
